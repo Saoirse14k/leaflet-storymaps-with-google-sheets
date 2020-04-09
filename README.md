@@ -1,6 +1,7 @@
 # Leaflet Storymaps with Google Sheets
 Customize your Leaflet story map with linked Google Sheets template and scrolling narrative.
 Supports images, audio and video embeddings, and Leaflet TileLayer/geojson overlays.
+https://docs.google.com/spreadsheets/d/1KJp9pON1TBx_3fCJOmo-C5Kvn13EwPo_uL8X0bzzAJs/edit#gid=0
 
 ![Demo Screenshot](media/screenshot.jpg)
 
